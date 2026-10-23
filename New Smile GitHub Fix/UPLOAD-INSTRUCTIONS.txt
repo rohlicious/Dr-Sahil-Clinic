@@ -1,0 +1,8 @@
+1. Open https://github.com/rohlicious/Dr-Sahil-Clinic
+2. At the repository top level, choose Add file > Upload files.
+3. Drag the docs folder from this directory into GitHub. Upload the docs folder itself, not this enclosing New Smile GitHub Fix folder.
+4. Commit changes. The repository should now contain docs/index.html.
+5. Settings > Pages > Deploy from a branch > main > /docs > Save.
+6. Open https://rohlicious.github.io/Dr-Sahil-Clinic/ after the Pages deployment succeeds.
+
+You may leave the original New Smile - GitHub Upload folder in the repository. GitHub Pages will use docs instead.
